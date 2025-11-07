@@ -20,6 +20,9 @@ if __name__ == '__main__':
     #print_lr("Siva")
     #print_dt("DT Here")
     print_lr3("LR3")
+    print("Done")
+
+# s of now youv must scripts from Main only
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
