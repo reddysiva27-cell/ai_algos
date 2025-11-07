@@ -3,6 +3,7 @@ from lenior_reg2 import print_lr2
 from lenior_reg3 import print_lr3
 from lenior_regression import print_lr
 from logistic_reg_dt import print_dt
+print("Just Printing")
 
 
 # Press Shift+F10 to execute it or replace it with your code.
@@ -17,7 +18,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     #print_hi('PyCharm')
-    #print_lr("Siva")
+    #print_lr("Siva Edited")
     #print_dt("DT Here")
     print_lr3("LR3")
     print("Done")
